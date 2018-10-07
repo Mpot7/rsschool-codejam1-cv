@@ -1,0 +1,26 @@
+.resume {
+  width: 800px;
+  margin: auto;
+}
+
+.restable {
+  border: 1px solid grey;
+  background-color: rgb(232, 232, 241);
+} 
+.restable td {
+  padding: 10px 20px;  
+  border-bottom: 1px solid grey
+}
+ul {
+  padding-left: 0px;  
+}
+
+body {
+    font-family: "Helvetica", "Arial", sans-serif;
+}
+.rowhead, 
+h1, 
+h2 {
+  font-weight:bold;
+  color: rgb(24, 24, 83);
+}
